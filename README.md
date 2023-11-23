@@ -2,7 +2,7 @@
 
 
 ![antony-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-souza&show_icons=true&theme=tokyonight&locale=pt-br)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoahSec&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-souza&theme=tokyonight) 
 
 
         
