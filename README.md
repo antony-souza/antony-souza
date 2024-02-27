@@ -7,6 +7,6 @@
 
         
 ## Tecnologias em estudo:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,bash,linux,html,css,react,angular,git,vscode,nano,,java,c)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,bash,linux,html,css,angular,git,vscode,nano,java,c)](https://skillicons.dev)      
 
   
