@@ -2,6 +2,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-souza&theme=tokyonight) 
         
 ## Tecnologias em estudo:
-[![My Skills](https://skillicons.dev/icons?i=docker,prisma,nginx,nodejs,nest,express,react,next,tailwind,js,ts,mongodb,bash,linux,html,css,git,vscode,vim)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=docker,prisma,nginx,nodejs,nest,express,react,next,tailwind,js,ts,mongodb,postgres,bash,linux,html,css,git,vscode,vim)](https://skillicons.dev)      
 
   
