@@ -4,4 +4,4 @@
 
 ## Outras em estudo:
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,java,spring)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,java,spring)](https://skillicons.dev)      
