@@ -1,3 +1,5 @@
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ## Stack Principal
 
 ### Backend
@@ -17,15 +19,3 @@
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,vim,postman)](https://skillicons.dev)
-
-## Tecnologias em estudo
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)](https://skillicons.dev)
-
-## Contato
-
-<p align="start">
-<a href="https://linkedin.com/in/antony-souza-3990b227b/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
