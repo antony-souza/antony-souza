@@ -1,4 +1,6 @@
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## Stack Principal
 
@@ -19,3 +21,16 @@
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,vim,postman)](https://skillicons.dev)
+
+</td>
+
+<td width="40%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+
+## Outras
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)](https://skillicons.dev)
+</td>
+</tr>
+</table>
