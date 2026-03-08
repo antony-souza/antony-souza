@@ -19,9 +19,6 @@
 ### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-### Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,vim,postman)](https://skillicons.dev)
-
 </td>
 
 <td width="40%" valign="top">
