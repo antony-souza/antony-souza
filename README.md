@@ -1,5 +1,3 @@
-<h1 align="center">Antony Souza</h1>
-
 ## Stack Principal
 
 ### Backend
