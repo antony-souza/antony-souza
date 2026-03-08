@@ -27,6 +27,7 @@
 
 ## Outras
 
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)](https://skillicons.dev)
 </td>
 </tr>
