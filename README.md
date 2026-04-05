@@ -29,12 +29,6 @@
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
-
-## Mais Usadas
-
-<p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-souza&layout=compact&theme=tokyonight"/>
-</p>
 </td>
 </tr>
 </table>
