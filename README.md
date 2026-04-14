@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase)](https://skillicons.dev)
 
 ### DevOps e Infraestrutura
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,rabbitmq,aws,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,rabbitmq,aws,cloudflare,vercel,netlify)](https://skillicons.dev)
 
 ### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
