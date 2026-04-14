@@ -4,6 +4,9 @@
 
 ## Stack Principal
 
+### Mobile
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nest,express,prisma)](https://skillicons.dev)
 
