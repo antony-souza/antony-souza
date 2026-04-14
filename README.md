@@ -19,9 +19,6 @@
 ### DevOps e Infraestrutura
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,rabbitmq,aws,cloudflare,vercel,netlify)](https://skillicons.dev)
 
-### Sistemas Operacionais
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
-
 </td>
 
 <td width="40%" valign="top">
