@@ -25,7 +25,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
-## Outras
+## Stack Secundária
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
